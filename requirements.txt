@@ -1,0 +1,14 @@
+datasets==3.0.1
+diffusers==0.21.4
+numpy==2.2.5
+pandas==2.2.3
+Pillow==11.2.1
+scikit_learn==1.6.1
+scipy==1.15.3
+torch==2.5.0
+torchvision==0.20.0
+tqdm==4.66.5
+transformers==4.45.2
+open_clip_torch==2.31.0
+lpips==0.1.4
+pytorch-fid==0.3.0
