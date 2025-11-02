@@ -49,3 +49,14 @@ The code for all baseline methods is provided below:
 
 ## Acknowledgements
 We borrow the code from [Tree-Ring Watermark](https://github.com/YuxinWenRick/tree-ring-watermark.git) and [Gaussian Shading](https://github.com/bsmhmmlf/Gaussian-Shading.git).  We appreciate the authors for sharing their code.
+
+## Citation
+If our work assists your research, feel free to give us a star ⭐ or cite us using:
+```
+@article{yang2025t2smark,
+  title={T2SMark: Balancing Robustness and Diversity in Noise-as-Watermark for Diffusion Models},
+  author={Yang, Jindong and Fang, Han and Zhang, Weiming and Yu, Nenghai and Chen, Kejiang},
+  journal={arXiv preprint arXiv:2510.22366},
+  year={2025}
+}
+```
